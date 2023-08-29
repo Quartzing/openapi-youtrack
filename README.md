@@ -1,7 +1,7 @@
 # you-track-rest-api-client
 A client library for accessing YouTrack REST API:
 ```
-openapi-python-client generate --url https://quartzing.youtrack.cloud/api/openapi.json
+openapi-python-client generate --url https://{username}.youtrack.cloud/api/openapi.json
 ```
 version: `openapi-python-client     0.15.1`
 
